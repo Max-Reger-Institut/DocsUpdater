@@ -1,6 +1,6 @@
 # Reger-Werkausgabe (RWA) DocsUpdater
 
-The DocsUpdater is a tool for conveniently updating the encyclopedia- texts and -images of an Edirom Application. It is strongly adapted to the Reger-Werkausgabe (RWA), see below for details. It also supplies a tool for checking all links within the encyclopedia and the annotations of the Edirom Application.
+The DocsUpdater is a tool for conveniently updating the encyclopedia -texts and -images of an Edirom Application. It is strongly adapted to the [Reger-Werkausgabe (RWA)](http://www.max-reger-institut.de), see below for details. It also supplies a tool for checking all links within the encyclopedia and the annotations of the Edirom Application.
 
 If you want more information about Edirom see [edirom.de](http://www.edirom.de).
 
@@ -56,8 +56,8 @@ You can get help by `python checkLinks.py --help`:
 
 ### Known issues
 
-* This LinkChecker doesn't check anchors yet. That means in the case of a link to "file.ext#id", only "file.ext" is checked. In the case of a self-link to "#id", the link isn't checked at all.
-* Links in the facsimiles (target="edition://...") are checked in respect to their edition-, work-, source- and part-IDs but **not** for their bar-IDs.
+* This LinkChecker doesn't check anchors yet. That means in the case of a link to `file.ext#id`, only `file.ext` is checked. In the case of a self-link to `#id`, the link isn't checked at all.
+* Links in the facsimiles (`target="edition://..."`) are checked in respect to their edition-, work-, source- and part-IDs but **not** for their bar-IDs.
 
 ## Building an app
 
