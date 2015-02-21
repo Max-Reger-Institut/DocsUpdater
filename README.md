@@ -1,8 +1,8 @@
 # Reger-Werkausgabe (RWA) DocsUpdater
 
-The DocsUpdater is a tool for conveniently updating the encyclopedia -texts and -images of an Edirom Application. It is strongly adapted to the [Reger-Werkausgabe (RWA)](http://www.max-reger-institut.de), see below for details. It also supplies a tool for checking all links within the encyclopedia and the annotations of the Edirom Application.
+The DocsUpdater is a tool for conveniently updating the encyclopedia -texts and -images of an Edirom Viewer Application. It is strongly adapted to the [Reger-Werkausgabe (RWA)](http://www.max-reger-institut.de), see below for details. It also supplies a tool for checking all links within the encyclopedia and the annotations of the Edirom Application.
 
-If you want more information about Edirom see [edirom.de](http://www.edirom.de).
+If you want more information about Edirom Tools see the [Edirom repos](https://github.com/Edirom) or go to the [Edirom project page](http://www.edirom.de) to get the Edirom Updater respectively the Edirom Viewer.
 
 ## Dependencies
 
